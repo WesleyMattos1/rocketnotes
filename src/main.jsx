@@ -10,7 +10,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <ThemeProvider theme={theme}>
       <GlobalStyles />
       <Details />
-      {/* </GlobalStyles> */}
     </ThemeProvider>
   </React.StrictMode>
 )
